@@ -17,6 +17,7 @@ Run the main notebook:
 jupyter notebook main.ipynb
 
 🔹 Contributors
+
 Nasir-04 (my Role)
 Teammate 1 (Role)
 Teammate 2 (Role)
