@@ -88,7 +88,7 @@ References
 
 Getting Started
 
-Clone the repository: git clone https://github.com/edna122/Haile_Resort_Sentiment_Analysis
+Clone the repository: git clone https://github.com/Nasir-04/capstone_project
 
 Navigate to the project directory: cd YOUR_REPOSITORY_NAME
 
